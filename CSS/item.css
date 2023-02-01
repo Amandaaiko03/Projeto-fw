@@ -1,0 +1,51 @@
+
+ body{
+    background-image: url(../background3d.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+ }
+
+ .item{
+    margin: auto;
+    background-color: #DCDCDC;
+    max-width: 400px;
+    height: 450px;
+    padding: 40px;
+    border-radius: 20px;
+    margin-top: 50px;
+ }
+
+ .titulo{
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .caixa{
+    background-color: white;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+    width: auto;
+    border-color: grey;
+    
+    
+ }
+
+ .descrição{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding: 10px;
+    
+    
+ }
+
+ .botao{
+
+    border: 15px solid transparent;
+   border-radius: 20px;
+   height: auto;
+   width: auto;
+
+ }

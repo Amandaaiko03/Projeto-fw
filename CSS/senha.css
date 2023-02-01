@@ -1,0 +1,58 @@
+.form{
+    margin: auto;
+    background-color: #DCDCDC;
+    max-width: 400px;
+    height: 450px;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+body{
+    background-image: url(../background3d.webp);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.botaoesqueceu{
+    border: 15px solid transparent;
+   border-radius: 20px;
+   height: auto;
+   width: auto;
+}
+
+.box{
+    background-color: white;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+    width: auto;
+    border-color: grey;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+.textsenha{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.address{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+}
+
+.logo{
+    border-radius: 50%;
+    background-position:  top center;
+    border: 2px ;
+    width: 150px;
+    margin: auto;
+    
+}
+
